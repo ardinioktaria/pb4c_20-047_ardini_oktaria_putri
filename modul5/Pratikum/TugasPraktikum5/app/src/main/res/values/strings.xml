@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TugasPraktikum5</string>
+    <string name="tab_text_1">Feed Harian</string>
+    <string name="tab_text_2">Riwayat \Panggilan</string>
+    <string name="tab_text_3">Riwayat \Pencarian</string>
+    <string name="content_feed">Panggilan Terbaru</string>
+    <string name="content_history">Kamis, 09 April</string>
+    <string name="content_search">Hari Ini</string>
+</resources>
